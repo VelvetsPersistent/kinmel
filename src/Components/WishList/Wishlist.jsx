@@ -1,5 +1,5 @@
 import React from 'react';
-import Sweater from '../../assets/Sweater.png';
+// import Sweater from '../../assets/Sweater.png';
 
 const Wishlist = ({ activePanel, handleClose, wishlist = [], addToCart }) => {
   return (
