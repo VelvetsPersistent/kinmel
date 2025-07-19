@@ -15,6 +15,8 @@ This Ecommerce Website is a modern eCommerce frontend project built with React a
 It features an interactive product listing, cart management, wishlist, and order summary modal with 
 smooth user experience.
 
+**Hosted URLs:** [Link to KinMel](https://kenmel.netlify.app/)
+
 This documentation covers:
 
 - Folder structure
