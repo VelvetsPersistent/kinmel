@@ -1,10 +1,10 @@
-Ecommerce Website Frontend - Project Documentation
+Ecommerce Website Frontend - KINMEL
 ========================================
 
 Project: Ecommerce Website (Frontend)
 Tech Stack: React.js, TailwindCSS
 Author: Smita Parajuli
-Date: [Update with your deployment date]
+Date: 2025/07/18
 Version: MVP v1
 
 ----------------------------------------
